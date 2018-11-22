@@ -1,0 +1,7 @@
+C:\Users\acerz\Repos\Microsoft70-483\Microsoft70-483\bin\Debug\Microsoft70-483.exe.config
+C:\Users\acerz\Repos\Microsoft70-483\Microsoft70-483\bin\Debug\Microsoft70-483.exe
+C:\Users\acerz\Repos\Microsoft70-483\Microsoft70-483\bin\Debug\Microsoft70-483.pdb
+C:\Users\acerz\Repos\Microsoft70-483\Microsoft70-483\obj\Debug\Microsoft70-483.csprojAssemblyReference.cache
+C:\Users\acerz\Repos\Microsoft70-483\Microsoft70-483\obj\Debug\Microsoft70-483.csproj.CoreCompileInputs.cache
+C:\Users\acerz\Repos\Microsoft70-483\Microsoft70-483\obj\Debug\Microsoft70-483.exe
+C:\Users\acerz\Repos\Microsoft70-483\Microsoft70-483\obj\Debug\Microsoft70-483.pdb
