@@ -37,6 +37,10 @@ namespace Microsoft70_483
     [DataContract]
     public class Person
     {
+        public Person()
+        {
+        }
+
         [DataMember]
         public int Id { get; set; }
         [DataMember]
