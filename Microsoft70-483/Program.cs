@@ -60,6 +60,10 @@ namespace Microsoft70_483
 
             RegexMatchPostcodeExample.Example();
 
+            Console.WriteLine("================ IComparable Example ======================");
+
+            IComparableExample.Example();
+
             Console.ReadLine();
         }
     }

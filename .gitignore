@@ -1,4 +1,4 @@
 # Visual Studio 2015/2017 cache/options directory
 .vs/
-.bin/
-.obj/
+./Microsoft70-483/bin/
+./Microsoft70-483/obj/

@@ -48,6 +48,8 @@
     <Compile Include="AsymmetricEncryption.cs" />
     <Compile Include="DataContractJsonSerialiser.cs" />
     <Compile Include="Hash - Copy.cs" />
+    <Compile Include="IComparableExample.cs" />
+    <Compile Include="IEnumberableExample.cs" />
     <Compile Include="JavaScriptSeriliserExample.cs" />
     <Compile Include="ListDrive.cs" />
     <Compile Include="Program.cs" />
