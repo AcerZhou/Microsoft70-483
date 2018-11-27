@@ -64,6 +64,22 @@ namespace Microsoft70_483
 
             IComparableExample.Example();
 
+           Console.WriteLine("================ Delegate Example 1 ======================");
+
+            DelegateExample.UseDelegate();
+
+            Console.WriteLine("================ Delegate Example 2 ======================");
+
+            DelegateExample.Multicast();
+
+            Console.WriteLine("================ Event Example 1 ======================");
+
+            EventExample.CreateAndRaise();
+
+            Console.WriteLine("================ Event Example 2 ======================");
+
+            EventAccessor.CreateAndRaise();
+
             Console.ReadLine();
         }
     }

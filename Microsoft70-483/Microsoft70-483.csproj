@@ -47,6 +47,9 @@
   <ItemGroup>
     <Compile Include="AsymmetricEncryption.cs" />
     <Compile Include="DataContractJsonSerialiser.cs" />
+    <Compile Include="DelegateExample.cs" />
+    <Compile Include="EventAccessor.cs" />
+    <Compile Include="EventExample.cs" />
     <Compile Include="Hash - Copy.cs" />
     <Compile Include="IComparableExample.cs" />
     <Compile Include="IEnumberableExample.cs" />
